@@ -14,8 +14,8 @@ An end-to-end data analysis project that explores hotel booking patterns,cancell
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 - Jupyter Notebook
+- Power BI
 
 ## 📊 Key Analyses
 
